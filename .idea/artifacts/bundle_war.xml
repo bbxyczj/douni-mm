@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bundle:war">
+    <output-path>$PROJECT_DIR$/bundle/target</output-path>
+    <root id="archive" name="douni-bundle.war">
+      <element id="artifact" artifact-name="bundle:war exploded" />
+    </root>
+  </artifact>
+</component>
